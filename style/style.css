@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Salsa&display=swap');
+
+* {
+  margin: 0;
+}
+
+
+
+#nav-properties1 {
+  background-color: #FFF2E0;
+  border-radius: 10px;
+  margin: 20px 10px;
+
+}
+
+h3 {
+  font-family: salsa;
+  color: rgb(155, 109, 173);
+
+}
+
+#nav-text {
+  color: rgb(80, 80, 196);
+}
+
+img {
+  height: 70px;
+  width: 70px;
+  border-radius: 20px;
+}
